@@ -15,4 +15,4 @@
  - Hook useState
  - Hook useEffect
  - Add Listener to RNShake
- - Lifecycly ReactJs
+ - Lifecicly ReactJs
